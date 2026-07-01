@@ -42,11 +42,11 @@ function desenharTexto() {
   textSize(18);
 
   let texto =
-`Nome: Seu Nome Completo
+`Nome: Luana Colonhesi
 
-Escola: Sua Escola
+Escola: Dom Pedro II
 
-Série/Turma: Sua Série
+Série/Turma: 3A
 
 Profissão escolhida:
 Biomédica Esteta
